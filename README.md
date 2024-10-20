@@ -2,7 +2,7 @@ PacSnake
 
 library used:
 fmod
-flew-2.1.0
+glew-2.1.0
 imgui
 SDL2_image-2.6.1
 SDL2_ttf-2.22.0
